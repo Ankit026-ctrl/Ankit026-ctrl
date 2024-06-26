@@ -1,27 +1,25 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Ankith Kumar!] 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession or Field] who loves [a few things you love, e.g., coding, designing, learning new technologies, etc.].
+Welcome to my GitHub profile! I'm a passionate Programmer who loves to build amazing Real World Projects.
 
 ## 🔭 What I'm Working On
 - **Project Name:** Brief description of what the project is about.
 - **Project Name:** Brief description of what the project is about.
 
 ## 🌱 What I'm Learning
-- Currently learning [technology or topic].
-- Exploring [technology or topic].
+- Currently learning JavaScript!
+- Exploring Web Development,Python!
 
 ## 💬 Ask Me About
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
+- Productivity, Techie Stuffs!
 
 ## 📫 How to Reach Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: [ankithk252@gmail.com](mailto: ankithk252@gmail.com)
+- LinkedIn: [Ankith Kumar](https://www.linkedin.com/in/ankith-kumar-b74a60219)
+- Twitter: [@iamankitsingh26](https://x.com/iamankitsingh26?t=skkBQE4sKm44FRpwjCSVXA&s=09)
 
 ## ⚡ Fun Facts
-- I love [hobby or interest].
+- I love [Productivity and Finance].
 - I'm a huge fan of [something you're passionate about].
 
 ## 📊 GitHub Stats

@@ -1,4 +1,4 @@
-# Hi there, I'm [Ankith Kumar!] 👋
+# Hi there, I'm Ankith Kumar!👋
 
 Welcome to my GitHub profile! I'm a passionate Programmer who loves to build amazing Real World Projects.
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Programmer who loves to build ama
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit026-ctrl&layout=compact&theme=radical)
 
 ## 🛠️ Languages and Tools
 
